@@ -1,10 +1,6 @@
 
 #pbj txt based game
 
-p = 1
-b = 2
-j = 1
-
 #start of the game
 def start ():
     print ''' Welcome to PBJ Starvation Satisfaction Simulator 2016!
